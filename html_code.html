@@ -1,0 +1,8 @@
+
+<div id="app">
+  <form>
+    <input type="number" ref="my_input" @keypress="isNumber($event)"><br>
+    <button @click.prevent="getFormValues()">submit</button>
+  </form>
+  Output: {{ output }}
+</div>
