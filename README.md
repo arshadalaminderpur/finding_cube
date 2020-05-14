@@ -1,1 +1,1 @@
-# finding_cube
+# finding cube of tre input number
